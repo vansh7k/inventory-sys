@@ -1,0 +1,7 @@
+Added product: Laptop
+Added product: Phone
+Added 5 units of Laptop. New stock: 5
+Sold 3 units of Phone. Remaining stock: 7
+Sold 2 units of Laptop. Remaining stock: 3
+Stock for Laptop: 3
+Stock for Phone: 7
